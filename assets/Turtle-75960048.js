@@ -1,0 +1,1 @@
+import{o as t,c as o,a,w as e,Q as c,d as s}from"./index-e3c65e8e.js";const l={class:"d-flex flex-column h-100"},n=s("div",{class:"h-100 w-100 bg-dark"},null,-1),r=s("h2",null,"Turtles are cool?",-1),h={__name:"Turtle",setup(_){return(d,i)=>(t(),o("div",l,[a(c,null,{image:e(()=>[n]),text:e(()=>[r]),_:1})]))}};export{h as default};
