@@ -1,0 +1,1 @@
+import{o as e,c as s,a as o,w as a,Q as c,d as t}from"./index-4fb5b7e7.js";const n={class:"d-flex flex-column h-100"},l=t("h1",{class:"row align-self-center"},"The end. Completion code: a162cb3",-1),h={__name:"Scene13",setup(r){return(_,i)=>(e(),s("div",n,[o(c,null,{image:a(()=>[l]),_:1})]))}};export{h as default};
